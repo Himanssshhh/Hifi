@@ -94,6 +94,6 @@ GENERAL FEATURES
 
 ## CONTACT
 
-Do you have any questions or an idea? My email is navneetgpt3636@gmail.com 
+Do you have any questions or an idea? My email is himanshu.chaudhary.9889@gmail.com 
 
 
