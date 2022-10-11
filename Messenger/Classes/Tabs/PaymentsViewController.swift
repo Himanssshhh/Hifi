@@ -2,7 +2,7 @@
 //  PaymentsViewController.swift
 //  app
 //
-//  Created by Hrithik Nigam on 04/12/20.
+//  Created by Himanshu Chaudhary on 04/12/21.
 //  Copyright © 2020 KZ. All rights reserved.
 //
 
